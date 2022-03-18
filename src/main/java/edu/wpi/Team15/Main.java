@@ -14,4 +14,8 @@ public class Main {
 
     App.launch(App.class, args);
   }
+
+  public void printBranchHasan() {
+    System.out.println("Branch - Hasan Gandor");
+  }
 }
